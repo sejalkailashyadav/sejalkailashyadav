@@ -1,0 +1,71 @@
+<h1 align="center">Hello there 👩🏻‍💻 I'm Sejal Yadav!</h1>
+<p align="center">A passionate Software Developer who loves to learn and experiment with new technologies.</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sejalyadav0818&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
+</p>
+
+---
+
+## 🚀 About Me
+
+- 🎯 Focused on **Software Development**.
+- 🧠 Currently mastering tools like:  
+  `NodeJS`, `MySQL Workbench`, `Sequelize`, `NestJS`, `Prisma`, `ReactJS`, `Redux Toolkit`,  
+  `TypeScript`, `JavaScript`, `VS Code`, `Postman`, `Swagger`.
+- 🌐 Checkout my portfolio: [sejalyadav-portfolio.netlify.app](https://sejalyadav-portfolio.netlify.app/)
+- 📫 Reach me at: **sejalyadav122@gmail.com** or **sejalkyadav23@gmail.com**
+
+---
+
+## 🔗 Connect With Me
+
+<p>
+  <a href="mailto:sejalkyadav23@gmail.com">
+    <img src="https://img.icons8.com/fluent/48/000000/email.png" title="Email"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/sejal-y-80988b1bb/">
+    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" title="LinkedIn"/>
+  </a>
+</p>
+
+---
+
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40" />   What I'm Up To 
+
+- 🔭 Building real-world projects to grow my skillset
+- 🌱 Learning modern tech stacks and scalable architectures
+
+---
+
+## 💻 Tech Stack
+
+<p align="left">
+  <span style="margin-right: 15px;"><img src="https://img.icons8.com/color/48/000000/nodejs.png" title="NodeJS"/></span>&nbsp;&nbsp;
+  <span style="margin-right: 15px;"><img src="https://img.icons8.com/color/48/000000/react-native.png" title="ReactJS"/></span>&nbsp;&nbsp;
+  <span style="margin-right: 15px;"><img src="https://img.icons8.com/color/48/000000/mysql-logo.png" title="MySQL"/></span>&nbsp;&nbsp;
+  <span style="margin-right: 15px;"><img src="https://img.icons8.com/color/48/000000/javascript.png" title="JavaScript"/></span>&nbsp;&nbsp;
+  <span style="margin-right: 15px;"><img src="https://img.icons8.com/color/48/000000/typescript.png" title="TypeScript"/></span>&nbsp;&nbsp;
+  <span style="margin-right: 15px;"><img src="https://img.icons8.com/color/48/000000/redux.png" title="Redux"/></span>&nbsp;&nbsp;
+  <span style="margin-right: 15px;"><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" title="VS Code"/></span>&nbsp;&nbsp;
+  <span style="margin-right: 15px;"><img src="https://img.icons8.com/color/48/000000/firebase.png" title="Firebase"/></span>&nbsp;&nbsp;
+  <span style="margin-right: 15px;"><img src="https://img.icons8.com/color/48/000000/mongodb.png" title="MongoDB"/></span>&nbsp;&nbsp;
+    <span style="margin-right: 15px;"><img src="https://img.icons8.com/color/48/meta.png" title="WhatsApp Business API"/></span>&nbsp;
+</p>
+
+
+
+---
+
+## 🛠️ Personal Troubleshooting Guide
+
+Useful repositories and learning notes I maintain:
+
+- 📝 [Common Dev Errors & Commands](https://github.com/sejalyadav0818/notes)
+- 🧠 [React Notes with Project](https://www.linkedin.com/posts/activity-7119326543914369024-45Pb?utm_source=share&utm_medium=member_desktop)
+- 💾 [SQL Practice](https://github.com/sejalyadav0818/SQL-practice)
+- 🌐 [JavaScript Practice](https://github.com/sejalyadav0818/JS-practice)
+- 📚 [React Hooks](https://github.com/sejalyadav0818/React-Hooks)
+
+---
