@@ -69,3 +69,12 @@ Useful repositories and learning notes I maintain:
 - 📚 [React Hooks](https://github.com/sejalyadav0818/React-Hooks)
 
 ---
+👨‍💻 Open Source Contribution
+🚀 I made my first open source contribution to node-express-boilerplate!
+
+📌 Pull Request: #305 – Added max-length validation to password
+
+📝 Read about the experience:
+How I Contributed to an Open Source Node.js Project
+
+---
