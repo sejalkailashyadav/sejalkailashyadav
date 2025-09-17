@@ -7,7 +7,7 @@
 
 ---
 
-## 🚀 About Me.
+##  About Me.
 
 - 🎯 Focused on **Software Development**.
 - 🧠 Currently mastering tools like:  
