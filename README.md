@@ -13,7 +13,7 @@
 - 🧠 Currently mastering tools like:  
   `NodeJS`, `MySQL Workbench`, `Sequelize`, `NestJS`, `Prisma`, `ReactJS`, `Redux Toolkit`,  
   `TypeScript`, `JavaScript`, `VS Code`, `Postman`, `Swagger`.
-- 🌐 Checkout my portfolio: [sejalyadav-portfolio.netlify.app](https://sejalyadav-portfolio.netlify.app/)
+- 🌐 Checkout my portfolio: [http://sejalkyadav.vercel.app/](http://sejalkyadav.vercel.app/)
 - 📫 Reach me at: **sejalyadav122@gmail.com** or **sejalkyadav23@gmail.com**
 
 ---
