@@ -1,4 +1,4 @@
-<h1 align="center">Hello there 👩🏻‍💻 I'm Sejal Yadav  </h1>
+<h1 align="center">Hello there , I'm Sejal Yadav  </h1>
 <p align="center">A passionate Software Developer who loves to learn and experiment with new technologies.</p>
 
 <p align="center">
