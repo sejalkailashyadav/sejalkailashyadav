@@ -106,16 +106,6 @@ Backend-focused developer with 2+ years of experience designing and scaling prod
 
 ---
 
-## Experience
-
-**Software Developer** · Oct 2023 – Present
-Production WhatsApp and SMS messaging platform on Node.js, MySQL, webhooks and the WhatsApp Business API. Multi-role childcare ERP with RBAC, admissions, fees and reporting. Laravel and MySQL upgrades for a live healthcare platform.
-
-**Full-Stack Developer** · eSparkBiz Technologies · Ahmedabad · Jan 2023 – Aug 2023
-REST APIs, authentication modules and dashboard features with Node.js, Express.js, React.js and MongoDB. Reusable React components, Tailwind interfaces, Firebase real-time functionality, and Postman collections for API testing.
-
----
-
 ## Featured Projects
 
 | Project | Stack | What it does |
