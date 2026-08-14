@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6E56CF,100:3B82F6&height=180&section=header&text=Sejal%20Yadav&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Software%20Developer%20%7C%20Node.js%20%C2%B7%20NestJS%20%C2%B7%20React&descAlignY=58&descSize=16" alt="Sejal Yadav"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6E56CF,100:3B82F6&height=180&section=header&text=Sejal%20Yadav&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Software%20Developer%20%7C%20Building%20Scalable%20SaaS%20Products%20%7C%20ERP%20%E2%80%A2%20Automation%20%E2%80%A2%20WhatsApp%20Business%20API&descAlignY=58&descSize=16&descColor=ffffff" alt="Sejal Yadav"/>
 </p>
 
 <p align="center">
