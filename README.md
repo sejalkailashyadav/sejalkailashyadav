@@ -26,11 +26,7 @@ A passionate Software Developer who loves to learn and experiment with new techn
 
 Backend-focused developer with 2+ years of experience designing and scaling production web applications with Node.js, Express.js, Laravel, React.js, and MySQL. I work on REST API design, relational schema architecture, query optimization, webhook and third-party integrations, workflow automation, authentication, and role-based access control.
 
-|  |  |
-|---|---|
-| 📍 **Based in** | Ahmedabad, Gujarat |
-| 🌐 **Portfolio** | [sejalkyadav.vercel.app](http://sejalkyadav.vercel.app/) |
-| 📫 **Email** | [sejalyadav122@gmail.com](mailto:sejalyadav122@gmail.com) |
+📍 Ahmedabad, Gujarat &nbsp;·&nbsp; 🌐 [sejalkyadav.vercel.app](http://sejalkyadav.vercel.app/) &nbsp;·&nbsp; 📫 [sejalyadav122@gmail.com](mailto:sejalyadav122@gmail.com)
 
 ### In production
 
